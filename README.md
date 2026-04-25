@@ -1,3 +1,13 @@
+# PID Tuner Simulator
+
+Interactive PID controller tuning simulation built with Streamlit.
+
 ### 🚀 Live Demo
-**Try it here:** https://pid-tuner-simulator-8ublrhtrbcx8hlqb6rq3ra.streamlit.app pid-tuner-simulator
-Interactive web app to visualize PID control systems
+**Try it here:** https://pid-tuner-simulator.streamlit.app
+
+### Features
+- Real-time PID gain adjustment with sliders
+- Visual system response plotting  
+- Overshoot calculation
+
+Built by Omotoso Odunayo | Control Systems & Robotics
